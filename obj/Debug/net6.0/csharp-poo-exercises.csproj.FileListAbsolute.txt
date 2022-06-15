@@ -1,0 +1,15 @@
+C:\Users\zeld\workspace\csharp-poo-exercises\bin\Debug\net6.0\csharp-poo-exercises.exe
+C:\Users\zeld\workspace\csharp-poo-exercises\bin\Debug\net6.0\csharp-poo-exercises.deps.json
+C:\Users\zeld\workspace\csharp-poo-exercises\bin\Debug\net6.0\csharp-poo-exercises.runtimeconfig.json
+C:\Users\zeld\workspace\csharp-poo-exercises\bin\Debug\net6.0\csharp-poo-exercises.dll
+C:\Users\zeld\workspace\csharp-poo-exercises\bin\Debug\net6.0\csharp-poo-exercises.pdb
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\csharp-poo-exercises.csproj.AssemblyReference.cache
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\csharp-poo-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\csharp-poo-exercises.AssemblyInfoInputs.cache
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\csharp-poo-exercises.AssemblyInfo.cs
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\csharp-poo-exercises.csproj.CoreCompileInputs.cache
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\csharp-poo-exercises.dll
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\refint\csharp-poo-exercises.dll
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\csharp-poo-exercises.pdb
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\csharp-poo-exercises.genruntimeconfig.cache
+C:\Users\zeld\workspace\csharp-poo-exercises\obj\Debug\net6.0\ref\csharp-poo-exercises.dll
